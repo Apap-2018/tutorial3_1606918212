@@ -1,0 +1,18 @@
+Membuat Controller dan fungsi add
+
+1. Muncul "Data Berhasil Ditambahkan", tidak terjadi error
+
+2. Terjadi Whitelabel error, karena method add harus memiliki parameter flyHour (karena required = true). 
+
+Method View by licenseNumber
+
+3. Muncul data pilot
+
+4. Tidak dan muncul whitelabel error karena belum terdapat pilot yang memiliki license 1234.
+
+5. Iya, muncul
+
+6. Iya, muncul
+
+
+

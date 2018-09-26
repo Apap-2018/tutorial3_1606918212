@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: tutorial3
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nissakirana
+Implementation-Vendor-Id: com.apap
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/tutorial3
+Created-By: Maven Integration for Eclipse
+
